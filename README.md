@@ -1,9 +1,9 @@
  - 👋 Hi, I’m Adriana Carolina Chicaiza De la hoz
 - Welcome to my Github Account 💻
 - 👷‍♀️ I studied Industrial Managment and Finances
-- 👀 I’m interested in Programming, Data Mining and Sketching
-- 🌱 I’m currently learning R, POWER BI, Phyton and Ilustrator
-- 💞️ I’m looking to collaborate on QA and programming Volunteers
+- 👀 I’m interested in Fashion Desing and Sketching
+- 🌱 I’m currently Ilustrator, Auto Cad
+- 💞️ I’m looking to collaborate as Animal Volunteer
 - 📫 Conctact me: Adriana05Chicaiza - adriana.chicaiza.d@gmail.com
 - 😄 Pronouns: Chicaiza
 
